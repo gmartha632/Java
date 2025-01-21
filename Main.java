@@ -1,3 +1,4 @@
+
 public class Main {
 
     public static void main(String[] args) {
@@ -7,12 +8,12 @@ public class Main {
         //Primitive Data Type  int
         int age = 30;
         int year = 2025;
-        int quantity = 1;
+        // int quantity = 1;
 
         System.out.print("The year is " + year);
         //double
 
-        double price = 3000;
+        // double price = 3000;
         double gpa = 6.64;
         double temperature = 40.2;
 
@@ -21,7 +22,7 @@ public class Main {
         //char 
         char grade = 'A';
         char symbol = '!';
-        char currency = '$';
+        // char currency = '$';
 
         System.out.println(symbol);
 
@@ -36,7 +37,7 @@ public class Main {
         }
 
         String name = "Muthu";
-        String car = "Mustang" ;
+        // String car = "Mustang" ;
         System.out.println("Hello " + name);
         System.out.println("Your age is " + age + " years old");
         System.out.println("Your gpa is "+ gpa);
